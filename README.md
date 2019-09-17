@@ -3,7 +3,14 @@
 <p><span style="text-decoration: underline;"><strong><span style="font-size: 12pt;">Getting Started</span></strong></span></p>
 <ol>
 <li>Download PowerBI here: <a href="https://powerbi.microsoft.com/en-us/downloads/">https://powerbi.microsoft.com/en-us/downloads/</a></li>
-<li>Save/Download&nbsp;</li>
+<li>Save/Download the following files from this repository to your system
+<ul>
+<li>LogRhythm Metrics v1.pbix</li>
+<li>AlarmStatus.xlsx</li>
+<li>CaseStatus.xlsx</li>
+<li>PriorityStatus.xlsx</li>
+</ul>
+</li>
 <li>Launch the PowerBI template file (LogRhythm Metrics v1.pbix)</li>
 <li>Once in the file we&rsquo;ll need to change the data sources to point to your LogRhythm instance</li>
 <li>In the ribbon click &ldquo;Edit Queries&rdquo; then select &ldquo;Data Source Settings&rdquo;</li>
